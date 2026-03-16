@@ -25,4 +25,8 @@ O sistema busca facilitar o acesso a informações ambientais importantes e cont
 
 ## Autor
 
-Érick Dalabona
+**Érick Leandro Dalabona**
+
+Disciplina: Fábrica de Software I
+Professor: William Sestito  
+Curso: Engenharia de Software
