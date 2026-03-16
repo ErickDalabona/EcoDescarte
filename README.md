@@ -23,4 +23,6 @@ O sistema busca facilitar o acesso a informações ambientais importantes e cont
 - Figma (prototipação das telas)
 - Git e GitHub (versionamento do projeto)
 
-## Estrutura do projeto
+## Autor
+
+Érick Dalabona
